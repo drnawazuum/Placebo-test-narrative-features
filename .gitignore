@@ -1,0 +1,8 @@
+# large third-party data files are not stored here (see data/README.md)
+data/loan.csv
+data/LoanData.csv
+data/cs-training.csv
+data/ecb_statements_all/
+data/fomc_statements/
+.ipynb_checkpoints/
+__pycache__/
